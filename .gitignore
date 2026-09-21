@@ -1,0 +1,4 @@
+# Nunca versionar chaves privadas
+*.pem
+*.key
+*Zone.Identifier
