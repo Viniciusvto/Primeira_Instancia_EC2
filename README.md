@@ -1,6 +1,6 @@
 # ☁️ Minha primeira instância EC2 na AWS
 
-Provisionamento manual de um servidor Linux na nuvem da AWS (Amazon EC2) e acesso remoto via SSH, documentado passo a passo com os conceitos por trás de cada decisão.
+Provisionamento manual de um servidor Linux na nuvem da AWS (Amazon EC2) e acesso remoto via SSH, documentado passo a passo.
 
 ![AWS](https://img.shields.io/badge/AWS-EC2-FF9900?logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Amazon_Linux-2023-232F3E?logo=linux&logoColor=white)
@@ -10,7 +10,7 @@ Provisionamento manual de um servidor Linux na nuvem da AWS (Amazon EC2) e acess
 
 ## Objetivo
 
-Criar uma máquina virtual na AWS, entender cada configuração escolhida no processo e acessá-la remotamente pelo terminal usando autenticação por chave (SSH).
+Criar uma máquina virtual na AWS, e acessá-la remotamente pelo terminal usando autenticação por chave (SSH).
 
 ## Tecnologias e ambiente
 
