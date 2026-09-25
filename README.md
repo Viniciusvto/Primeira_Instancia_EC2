@@ -66,7 +66,7 @@ Nomeei a instância como **`EC2-first`**. O nome é, na verdade, uma **tag** (et
 
 ![Escolha do sistema operacional](img/02_sistema_operacional.png)
 
-Escolhi a **AMI do Amazon Linux 2023**. Outras opções (Ubuntu, Debian, Red Hat, Windows) também funcionam; Red Hat e Windows têm custo de licença embutido no preço por hora.
+Escolhi a **AMI do Amazon Linux 2023**. 
 
 ### 3. Arquitetura
 
